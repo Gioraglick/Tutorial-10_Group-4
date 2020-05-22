@@ -6,9 +6,8 @@ _______________________________
 We would like to acknowledge the current state of COVID19, and how this might affect the travel and tourism industry. Our business report takes into consideration the current economic climate when recommending the implementation of the  system.
 _______________________________
 # Objectives
-Design thinking is a discipline that uses the designer’s sensibility and methods to match people’s needs with what is technologically feasible and what a viable business strategy can convert into customer value and market opportunity (Chandran 2020).
 
-This report will evaluate information systems of a major travel company so they can improve their in-house call management centre (CMC). This analysis will allow the Relationship Managers (RM) to ensure fulfilment of objectives as stated by the demands of the travel company. Objectives are outlined as follows:
+The analysis will allow the Relationship Managers (RM) to ensure fulfilment of objectives as stated by the demands of the travel company. Objectives are outlined as follows:
 
 * Develop an information system to improve the operation on their in-house Call Management Centre (CMC)
 
