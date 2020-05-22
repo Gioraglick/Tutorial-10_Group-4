@@ -1,4 +1,5 @@
 * Objectives
+
 Develop an information system to improve the operation on their in-house call management centre (CMC)
 Adjust the call flow rate to suitable Relationship Managers (RM) in order to perform sales (holiday packages)
 Match RMs and end-customers according to RMs skills, performance, product knowledge and customers profiles
@@ -15,6 +16,7 @@ _______________________________
 (Edit This Text))
 _______________________________
 * Stakeholders
+
 Call management Centre (CMC): Main source of transactions and communication. Customer retention and getting new customers 
 Relationship Managers (RM): They ensure sales are performed and ensure continuous transactions are completed. Generate as many sales of holiday packages as possible
 Current customers: Have a vested interest and potential stake in the company. They purchase products through the travel company. The information system will provide assistance to RMs in serving their potential customers and will match RMs and potential customers according to RMs skills and customer profiles. 
