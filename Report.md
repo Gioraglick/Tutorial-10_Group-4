@@ -1,6 +1,6 @@
-* Objectives
+* This text will be bold* Objectives
 
-Develop an information system to improve the operation on their in-house call management centre (CMC)
+Develop an information system to improve the operation on their in-house call management centre (CMC).
 Adjust the call flow rate to suitable Relationship Managers (RM) in order to perform sales (holiday packages)
 Match RMs and end-customers according to RMs skills, performance, product knowledge and customers profiles
 Create a target list for each RM based on their skills and profile
