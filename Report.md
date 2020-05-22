@@ -6,7 +6,9 @@ We would like to acknowledge the current state of COVID19, and how this might af
 _______________________________
 # Objectives
 
-* Develop an information system to improve the operation on their in-house call management centre (CMC).
+The analysis will allow the Relationship Managers (RM) to ensure fulfilment of objectives as stated by the demands of the travel company. Objectives are outlined as follows:
+
+* Develop an information system to improve the operation on their in-house Call Management Centre (CMC)
 
 * Adjust the call flow rate to suitable Relationship Managers (RM) in order to perform sales (holiday packages)
 
@@ -26,10 +28,20 @@ _______________________________
 
 * Generate a customer score (Rating of: 1-10), capturing and utilising data such as ‘repeated customers’, ‘postcodes’ to adjust scores
 
-* Ability to redirect customers to an interactive voice response unit during large call inflows 
+* Ability to redirect customers to an interactive voice response unit during large call inflows
+
 ______________________________
 # Define the problem
-(Edit This Text))
+* The system’s operation is complicated by the varying number and nature of holiday packages offered by the travel company. 
+
+* Customers may hang up the phone if they suffer from a longer wait time than expected.
+
+* Misaligned expectations: Stakeholders might have different visions as to what the software capabilities are. 
+
+* Data Integrity: Ensuring that privacy standards are upheld (No leaking customers personal information).
+
+* Short term decline in productivity during the software implementation stage. Thus, the staff could find it hard to adjust to a new system initially. 
+
 _______________________________
 # Stakeholders
 * Call management Centre (CMC): Main source of transactions and communication. Customer retention and getting new customers 
@@ -143,4 +155,7 @@ _______________________________
 _______________________________
 # Competitive Advanatages and their Problems
 (Edit This Text))
+_______________________________
+# References
+* Chandran, D. 2020, ‘Lecture 6: Design Thinking’, UTS Online Subject 31257, PowerPoint Presentation, UTS, Sydney, viewed 22 May 2020.
 _______________________________
