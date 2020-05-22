@@ -68,5 +68,5 @@ _______________________________
 (Edit This Text))
 _______________________________
 # References
-(Edit This Text))
+* Chandran, D. 2020, ‘Lecture 6: Design Thinking’, UTS Online Subject 31257, PowerPoint Presentation, UTS, Sydney, viewed 22 May 2020.
 _______________________________
