@@ -31,7 +31,12 @@ _______________________________
 
 ______________________________
 # Define the problem
-(Edit This Text))
+* The system’s operation is complicated by the varying number and nature of holiday packages offered by the travel company
+* Customers may hang up when they suffer from a long wait time.
+* Misaligned expectations; stakeholders might have different visions as to what the software capabilities are
+* Data Integrity; Ensuring that privacy standards are upheld (No leaking customers personal information)
+* Short term decline in productivity during the software implementation stage. The staff could find it hard to adjust to a new system initially. 
+
 _______________________________
 
 # Stakeholders
