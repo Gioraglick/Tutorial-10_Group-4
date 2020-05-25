@@ -154,7 +154,24 @@ _______________________________
 (Edit This Text))
 _______________________________
 # Competitive Advanatages and their Problems
-(Edit This Text))
+To gain a competitive advantage in the travel industry, ensuring the implementation of sophisticated and efficient systems is critical for allowing businesses to deliver effective outputs. Increasing efficiency of operations will allow the travel company and its stakeholders to anticipate a profitable growth, whilst maintaining lower expenses. By doing this, it will increase their overall competitive advantage in the market.
+
+Competitive Advantages:
+* Ensuring accurate financial reports are conducted (annually, half-yearly, monthly) 
+* Automation system that creates RM profiles in less than 10 minutes.
+* Highly sophisticated and efficient call systems are put into place to avoid miscommunication
+
+
+The Business will face adverse impacts if the information system project fails. This can be due to an incorrectly defined project scope and imperfect risk management. Consequences of the project failure include:
+* Substantial loss of finance and assets
+* Poor business reputation 
+* Dismissive feedback by disappointed customers - negative online reviews leading to loss of customers
+* Most if not all stakeholders involved will be unhappy and deeply affected by the project failure.
+* Possible business closure 
+* Inaccurate financial reporting
+* Not adhering to the main set of the business requirements 
+* Unwanted exposure to news and online platforms for system failure
+
 _______________________________
 # References
 * Chandran, D. 2020, ‘Lecture 6: Design Thinking’, UTS Online Subject 31257, PowerPoint Presentation, UTS, Sydney, viewed 22 May 2020.
