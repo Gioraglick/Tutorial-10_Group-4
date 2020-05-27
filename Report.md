@@ -110,7 +110,7 @@ Empathise is the first stage of design thinking, gaining an empathetic understan
 * Make several day-to-day responsibilities automated through the information system. This would improve the company’s efficiency, so the RMs can have a greater focus on the customer
 
 ## Prototype 
-(ADD PROTOTYPE IMAGE HERE)
+(ADD PROTOTYPE IMAGE HERE - UI DESIGN)
 
 ## Test
 Here we rigorously tested the software, evaluating both the staff and customers perspectives and experiences. Additionally, we ran our own diagnostics, evaluating whether the prototype met our technological standards.  Please see the table below:
