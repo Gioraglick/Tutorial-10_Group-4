@@ -150,6 +150,7 @@ We assumed that:
 * A long waiting time is anything over 10 mins (Customers hang up the phone after 10 minutes)
 * The travel companies current requirements are constant and do not change throughout the duration of the project
 _______________________________
+
 # Workproducts and Models
 ![Use Case Diagram](/Diagrams/Use Case Diagram.png)
 ![Class Diagram](/Diagrams/Class Diagram.png)
@@ -177,3 +178,6 @@ _______________________________
 # References
 * Chandran, D. 2020, ‘Lecture 6: Design Thinking’, UTS Online Subject 31257, PowerPoint Presentation, UTS, Sydney, viewed 22 May 2020.
 _______________________________
+
+
+
