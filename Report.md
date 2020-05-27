@@ -151,7 +151,8 @@ We assumed that:
 * The travel companies current requirements are constant and do not change throughout the duration of the project
 _______________________________
 # Workproducts and Models
-(Edit This Text))
+![Use Case Diagram](/Diagrams/Use Case Diagram.png)
+![Class Diagram](/Diagrams/Class Diagram.png)
 _______________________________
 # Competitive Advanatages and their Problems
 To gain a competitive advantage in the travel industry, ensuring the implementation of sophisticated and efficient systems is critical for allowing businesses to deliver effective outputs. Increasing efficiency of operations will allow the travel company and its stakeholders to anticipate a profitable growth, whilst maintaining lower expenses. By doing this, it will increase their overall competitive advantage in the market.
