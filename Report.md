@@ -152,7 +152,7 @@ We assumed that:
 _______________________________
 
 # Workproducts and Models
-![Use Case Diagram](/Diagrams/Use Case Diagram.png)
+![Use Case Diagram](/Diagrams/Tutorial-10_Group-4/Diagrams/Class diagram.png)
 
 ![Class Diagram](/Diagrams/Class Diagram.png)
 _______________________________
