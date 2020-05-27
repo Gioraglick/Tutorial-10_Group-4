@@ -142,7 +142,42 @@ Did it successfully redirect customers to an interactive voice response unit whe
 Ability to route calls (reduction in pre-call handling time)? | Yes
 _______________________________
 # Agile Methodology
-test edit
+Agile methodologies assisted with the project in areas such as requirements gathering, scheduling, communication and design. Our team emphasised the importance of agile values such as common focus, collaboration and self-organisation. We engaged in continuous team communication and continuous integration through the use of GitHub. In particular, our team utilised the scrum methodology.
+
+## Scrum
+
+### Scrum Roles:
+Role | Description | Team Member(s)
+-----|-------------|------
+Product owner | Responsible for managing backlog and monitors project against stated goals and financial vision | Giora Glick
+Scrum master | Facilitates the scrum, ensures scrum is understood and enacted | Cody Fisher-Peel
+Development team | Responsible for developing incremental releases and are autonomous | Jack Hennessy, Jordan Besser
+
+### Scrum Events:
+#### Sprint
+Our team utilised sprints to develop our report. We had multiple iterations to improve the quality of our report as evidenced by the GitHub updates. 
+
+#### Sprint planning
+Created the backlog and the goal of the sprint (to complete our assignment). Took half a day. Frequent and fluid communication was of value here, as it was important all team members were working towards a common goal and understood their individual tasks.
+
+#### Sprint review
+Completed after each iteration. Used to examine what has been created after each sprint and to view progress. After our first sprint review we concluded the report should be moved from Google Docs to GitHub. The second sprint review was used to improve the formatting of our report and identify any remaining questions. 
+
+#### Sprint retrospective
+Final event of the sprint where the team examines how they are working and looks for ways to improve. During our retrospective we acknowledged our communication had been highly effective, however identified our GitHub skills could be improved.
+
+#### Daily scrum meetings
+We frequently held scrum meetings. During these meetings we each discussed what tasks we had completed since our last meeting, what we intended to work on and any issues we were encountering. 
+
+### Artefacts:
+#### Product backlog
+A list of all tasks and requirements required to be completed for the project to be successfully developed. Our team found it most useful for our project backlog items to include questions assigned to respective team members as well as other requirements of the project, such as system diagrams.
+
+#### Sprint backlog
+A table of product backlog items, often represented physically on a wall or virtually e.g.  Kanban board. Used to track the progress of each backlog item. Items are sorted into chronological columns e.g. not started, in-progress, development, testing, completed. We used a sprint backlog to track the progress of our individual tasks assisting us with completing our project on time.
+
+#### Product increment
+Represents a potentially shippable product at the end of each sprint. Our product increments progressed from a Google Doc report, to an initial poorly formatted GitHub report, to a well-formatted and presented GitHub report.
 _______________________________
 # Assumptions
 We assumed that:
@@ -160,6 +195,12 @@ _______________________________
 
 ## Class Diagram 
 ![Class Diagram](/Diagrams/Class%20diagram.jpg?raw=true)
+
+## Activity Diagram 
+(Add here)
+
+## Collaborative Diagram
+(Add here)
 _______________________________
 # Competitive Advanatages and Potential Problems
 A competitive advantage refers to an element of the business that allows a firm to offer its product or service better, or more economically than its industry rivals. By the travel company employing a new information system to improve its in-house call management centre operations, this will promote the company's overall efficiency. Relationship Managers will now have to ability to perform sales at a more productive rate due to an adjusted call flow from the information system. Enhanced performance within a business is key to ensuring that they are a step above their competitors, maximising sales and shareholder wealth. 
