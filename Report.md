@@ -153,6 +153,7 @@ _______________________________
 
 # Workproducts and Models
 ![Use Case Diagram](/Diagrams/Use Case Diagram.png)
+
 ![Class Diagram](/Diagrams/Class Diagram.png)
 _______________________________
 # Competitive Advanatages and their Problems
