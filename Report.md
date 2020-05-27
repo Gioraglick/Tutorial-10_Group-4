@@ -111,7 +111,7 @@ Empathise is the first stage of design thinking, gaining an empathetic understan
 
 ## Prototype 
 User Interface Design (Staff/RM Perspective)
-![Prototype V2](/Diagrams/Prototype%20V2.jpg?raw=true)
+![Prototype ISDM](/Diagrams/Prototype%20ISDM.jpg?raw=true)
 
 ## Test
 Here we rigorously tested the software, evaluating both the staff and customers perspectives and experiences. Additionally, we ran our own diagnostics, evaluating whether the prototype met our technological standards.  Please see the table below:
