@@ -157,28 +157,26 @@ _______________________________
 ![Class Diagram](/Diagrams/Class%20diagram.jpg?raw=true)
 _______________________________
 # Competitive Advanatages and their Problems
-To gain a competitive advantage in the travel industry, ensuring the implementation of sophisticated and efficient systems is critical for allowing businesses to deliver effective outputs. Increasing efficiency of operations will allow the travel company and its stakeholders to anticipate a profitable growth, whilst maintaining lower expenses. By doing this, it will increase their overall competitive advantage in the market.
+A competitive advantage refers to an element of the business that allows a firm to offer its product or service better, or more economically than its industry rivals. By the travel company employing a new information system to improve its in-house call management centre operations, this will promote the company's overall efficiency. Relationship Managers will now have to ability to perform sales at a more productive rate due to an adjusted call flow from the information system. Enhanced performance within a business is key to ensuring that they are a step above their competitors, maximising sales and shareholder wealth. 
 
-Competitive Advantages:
-* Ensuring accurate financial reports are conducted (annually, half-yearly, monthly) 
-* Automation system that creates RM profiles in less than 10 minutes.
-* Highly sophisticated and efficient call systems are put into place to avoid miscommunication
+Moreover, the introduction of the new system will support an overall cost reduction for the business. Since the system can automate tasks that were previously executed manually, it will place a greater emphasis on reducing the travel company's expenses in the long term. This is extremely important when considering a competitive advantage, as the company should aim to generate a superior profit margin compared to its market rivals. 
 
+Lastly, the implementation of the new system can promote a higher level of customer satisfaction than other travel companies in the industry. The call management centre will now have the ability to match RMs and end-customers according to their skill and customer profiles. Not only will this further holiday package sales, it will also support a tailored customer experience. Therefore the system will make the business's product and service more desirable to customers than that of its rivals, generating higher value for the firm and its shareholders.    
 
-The Business will face adverse impacts if the information system project fails. This can be due to an incorrectly defined project scope and imperfect risk management. Consequences of the project failure include:
-* Substantial loss of finance and assets
-* Poor business reputation 
-* Dismissive feedback by disappointed customers - negative online reviews leading to loss of customers
-* Most if not all stakeholders involved will be unhappy and deeply affected by the project failure.
-* Possible business closure 
+However, if the information system fails, it can lead to potentially adverse effects for the business. Implementation failure could stem from an incorrectly defined project scope or a flawed risk management forecast. New systems must be thoughtfully implemented into a company as failure could lead to a decreased market share and loss in revenue, contributing to a market disadvantage.  Specific consequences of the potential project failure include:
+* A decrease in sales revenue
+* A decrease in call centre efficiency, leading to increased costs
+* Poor business reputation
+* Dismissive feedback by disappointed customers - negative online reviews leading to loss of customers to competitors
+* Stakeholder dissatisfaction
+* Pressure/stress towards business executives 
+* A decrease in shareholder wealth
+* Possible business closure
+* A decline in market share
 * Inaccurate financial reporting
-* Not adhering to the main set of the business requirements 
+* Not adhering to the primary set of the business requirements
 * Unwanted exposure to news and online platforms for system failure
-
 _______________________________
 # References
 * Chandran, D. 2020, ‘Lecture 6: Design Thinking’, UTS Online Subject 31257, PowerPoint Presentation, UTS, Sydney, viewed 22 May 2020.
 _______________________________
-
-
-
