@@ -139,7 +139,7 @@ Did it successfully redirect customers to an interactive voice response unit whe
 Ability to route calls (reduction in pre-call handling time)? | Yes
 _______________________________
 # Agile Methodology
-(Edit This Text))
+test edit
 _______________________________
 # Assumptions
 We assumed that:
@@ -150,8 +150,11 @@ We assumed that:
 * A long waiting time is anything over 10 mins (Customers hang up the phone after 10 minutes)
 * The travel companies current requirements are constant and do not change throughout the duration of the project
 _______________________________
+
 # Workproducts and Models
-(Edit This Text))
+![Use Case Diagram](Diagrams/Usecase%20diagram.jpg?raw=true)
+
+![Class Diagram](/Diagrams/Class%20diagram.jpg?raw=true)
 _______________________________
 # Competitive Advanatages and their Problems
 A competitive advantage refers to an element of the business that allows a firm to offer its product or service better, or more economically than its industry rivals. By the travel company employing a new information system to improve its in-house call management centre operations, this will promote the company's overall efficiency. Relationship Managers will now have to ability to perform sales at a more productive rate due to an adjusted call flow from the information system. Enhanced performance within a business is key to ensuring that they are a step above their competitors, maximising sales and shareholder wealth. 
