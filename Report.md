@@ -87,7 +87,13 @@ Empathise is the first stage of design thinking, gaining an empathetic understan
 * Workers perform more efficiently, selling more products which promotes company profits
 
 ## Define 
-(CODY TO PLACE HIS DEFINE TABLE HERE)
+### Point of View Table
+User| Needs | Insight 
+-------------|-------------|---------------
+Call management Centre (CMC) | As part of the CMC I need correct information on each customer and the relationship managers/their profiles.</br></br>As the CMC we need to correctly store customer call metadata to ensure customers are routed appropriately. | Without proper RM profiles or customer data the CMC can not route to the most effective salesman.</br></br>Correct call history will allow RM’s to more efficiently help customers and sell holiday packages.
+Relationship Managers (RM) | As a RM I need proper customer routing from the profiler tool so that I know what my customer wants when they connect to me.</br></br>As an RM I need current updates on different holiday packages to ensure that holiday packages are not overbooked. | Relationship Managers will be more efficient if the customer’s profiles match the specific RM’s profile allowing them to help the customers more.</br></br>Incorrectly stored holiday packages may cause damage repayments for the travel company.
+Customers | As a customer I need comprehensive call instructions and quick routing so I don’t have to wait long on the phone.</br></br>As a customer I need clear call connection so I can understand the information given to me. | Customers are more inclined to purchase packages if their experience with the call service is easy and quick.</br></br>Customers who find the RM hard to understand are less inclined to listen and therefore by products.
+
 
 ### How Might We Statements:
 * How might we develop and implement an information system that will improve the in-house call management centre’s sales by 15%
