@@ -116,7 +116,9 @@ Customers | As a customer I need comprehensive call instructions and quick routi
 * Make several day-to-day responsibilities automated through the information system. This would improve the company’s efficiency, so the RMs can have a greater focus on the customer
 
 ## Prototype 
-(ADD PROTOTYPE IMAGE HERE - UI DESIGN)
+This is a basic UI design that could be used in a computer system for the Relationship Managers to book customer holiday packages. It shows the two main data collection screens for selecting a holiday package and for entering customer data.
+![Wireframe Diagrams](/Diagrams/Prototype.jpg?raw=true)
+
 
 ## Test
 Here we rigorously tested the software, evaluating both the staff and customers perspectives and experiences. Additionally, we ran our own diagnostics, evaluating whether the prototype met our technological standards.  Please see the table below:
