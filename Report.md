@@ -109,6 +109,9 @@ Empathise is the first stage of design thinking, gaining an empathetic understan
 ### IT WOULD BE GAME-CHANGING TO . . . 
 * Make several day-to-day responsibilities automated through the information system. This would improve the company’s efficiency, so the RMs can have a greater focus on the customer
 
+## Prototype 
+(ADD PROTOTYPE IMAGE HERE - UI DESIGN)
+
 ## Test
 Here we rigorously tested the software, evaluating both the staff and customers perspectives and experiences. Additionally, we ran our own diagnostics, evaluating whether the prototype met our technological standards.  Please see the table below:
 
@@ -139,7 +142,42 @@ Did it successfully redirect customers to an interactive voice response unit whe
 Ability to route calls (reduction in pre-call handling time)? | Yes
 _______________________________
 # Agile Methodology
-(Edit This Text))
+Agile methodologies assisted with the project in areas such as requirements gathering, scheduling, communication and design. Our team emphasised the importance of agile values such as common focus, collaboration and self-organisation. We engaged in continuous team communication and continuous integration through the use of GitHub. In particular, our team utilised the scrum methodology.
+
+## Scrum
+
+### Scrum Roles:
+Role | Description | Team Member(s)
+-----|-------------|------
+Product owner | Responsible for managing backlog and monitors project against stated goals and financial vision | Giora Glick
+Scrum master | Facilitates the scrum, ensures scrum is understood and enacted | Cody Fisher-Peel
+Development team | Responsible for developing incremental releases and are autonomous | Jack Hennessy, Jordan Besser
+
+### Scrum Events:
+#### Sprint
+Our team utilised sprints to develop our report. We had multiple iterations to improve the quality of our report as evidenced by the GitHub updates. 
+
+#### Sprint planning
+Created the backlog and the goal of the sprint (to complete our assignment). Took half a day. Frequent and fluid communication was of value here, as it was important all team members were working towards a common goal and understood their individual tasks.
+
+#### Sprint review
+Completed after each iteration. Used to examine what has been created after each sprint and to view progress. After our first sprint review we concluded the report should be moved from Google Docs to GitHub. The second sprint review was used to improve the formatting of our report and identify any remaining questions. 
+
+#### Sprint retrospective
+Final event of the sprint where the team examines how they are working and looks for ways to improve. During our retrospective we acknowledged our communication had been highly effective, however identified our GitHub skills could be improved.
+
+#### Daily scrum meetings
+We frequently held scrum meetings. During these meetings we each discussed what tasks we had completed since our last meeting, what we intended to work on and any issues we were encountering. 
+
+### Artefacts:
+#### Product backlog
+A list of all tasks and requirements required to be completed for the project to be successfully developed. Our team found it most useful for our project backlog items to include questions assigned to respective team members as well as other requirements of the project, such as system diagrams.
+
+#### Sprint backlog
+A table of product backlog items, often represented physically on a wall or virtually e.g.  Kanban board. Used to track the progress of each backlog item. Items are sorted into chronological columns e.g. not started, in-progress, development, testing, completed. We used a sprint backlog to track the progress of our individual tasks assisting us with completing our project on time.
+
+#### Product increment
+Represents a potentially shippable product at the end of each sprint. Our product increments progressed from a Google Doc report, to an initial poorly formatted GitHub report, to a well-formatted and presented GitHub report.
 _______________________________
 # Assumptions
 We assumed that:
@@ -152,33 +190,39 @@ We assumed that:
 _______________________________
 
 # Workproducts and Models
+## Use Case Diagram 
 ![Use Case Diagram](Diagrams/Usecase%20diagram.jpg?raw=true)
 
+## Class Diagram 
 ![Class Diagram](/Diagrams/Class%20diagram.jpg?raw=true)
+
+## Activity Diagram 
+(Add here)
+
+## Collaborative Diagram
+(Add here)
 _______________________________
-# Competitive Advanatages and their Problems
-To gain a competitive advantage in the travel industry, ensuring the implementation of sophisticated and efficient systems is critical for allowing businesses to deliver effective outputs. Increasing efficiency of operations will allow the travel company and its stakeholders to anticipate a profitable growth, whilst maintaining lower expenses. By doing this, it will increase their overall competitive advantage in the market.
+# Competitive Advanatages and Potential Problems
+A competitive advantage refers to an element of the business that allows a firm to offer its product or service better, or more economically than its industry rivals. By the travel company employing a new information system to improve its in-house call management centre operations, this will promote the company's overall efficiency. Relationship Managers will now have to ability to perform sales at a more productive rate due to an adjusted call flow from the information system. Enhanced performance within a business is key to ensuring that they are a step above their competitors, maximising sales and shareholder wealth. 
 
-Competitive Advantages:
-* Ensuring accurate financial reports are conducted (annually, half-yearly, monthly) 
-* Automation system that creates RM profiles in less than 10 minutes.
-* Highly sophisticated and efficient call systems are put into place to avoid miscommunication
+Moreover, the introduction of the new system will support an overall cost reduction for the business. Since the system can automate tasks that were previously executed manually, it will place a greater emphasis on reducing the travel company's expenses in the long term. This is extremely important when considering a competitive advantage, as the company should aim to generate a superior profit margin compared to its market rivals. 
 
+Lastly, the implementation of the new system can promote a higher level of customer satisfaction than other travel companies in the industry. The call management centre will now have the ability to match RMs and end-customers according to their skill and customer profiles. Not only will this further holiday package sales, it will also support a tailored customer experience. Therefore the system will make the business's product and service more desirable to customers than that of its rivals, generating higher value for the firm and its shareholders.    
 
-The Business will face adverse impacts if the information system project fails. This can be due to an incorrectly defined project scope and imperfect risk management. Consequences of the project failure include:
-* Substantial loss of finance and assets
-* Poor business reputation 
-* Dismissive feedback by disappointed customers - negative online reviews leading to loss of customers
-* Most if not all stakeholders involved will be unhappy and deeply affected by the project failure.
-* Possible business closure 
+However, if the information system fails, it can lead to potentially adverse effects for the business. Implementation failure could stem from an incorrectly defined project scope or a flawed risk management forecast. New systems must be thoughtfully implemented into a company as failure could lead to a decreased market share and loss in revenue, contributing to a market disadvantage. Specific consequences of the potential project failure include:
+* A decrease in sales revenue
+* A decrease in call centre efficiency, leading to increased costs
+* Poor business reputation
+* Dismissive feedback by disappointed customers - negative online reviews leading to loss of customers to competitors
+* Stakeholder dissatisfaction
+* Pressure/stress towards business executives 
+* A decrease in shareholder wealth
+* Possible business closure
+* A decline in market share
 * Inaccurate financial reporting
-* Not adhering to the main set of the business requirements 
+* Not adhering to the primary set of the business requirements
 * Unwanted exposure to news and online platforms for system failure
-
 _______________________________
 # References
 * Chandran, D. 2020, ‘Lecture 6: Design Thinking’, UTS Online Subject 31257, PowerPoint Presentation, UTS, Sydney, viewed 22 May 2020.
 _______________________________
-
-
-
