@@ -197,10 +197,10 @@ _______________________________
 ![Class Diagram](/Diagrams/Class%20diagram.jpg?raw=true)
 
 ## Activity Diagram 
-(Add here)
+![Activity Diagram](/Diagrams/Activity_Diagrams.jpg?raw=true)
 
 ## Collaborative Diagram
-(Add here)
+![Collavorative Diagram](/Diagrams/Collaboration_Diagram.jpg?raw=true)
 _______________________________
 # Competitive Advanatages and Potential Problems
 A competitive advantage refers to an element of the business that allows a firm to offer its product or service better, or more economically than its industry rivals. By the travel company employing a new information system to improve its in-house call management centre operations, this will promote the company's overall efficiency. Relationship Managers will now have to ability to perform sales at a more productive rate due to an adjusted call flow from the information system. Enhanced performance within a business is key to ensuring that they are a step above their competitors, maximising sales and shareholder wealth. 
