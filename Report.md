@@ -204,11 +204,15 @@ _______________________________
 ## Use Case Diagram 
 ![Use Case Diagram](Diagrams/Usecase%20diagram.jpg?raw=true)
 
+## Activity Diagrams
+### Handling Inbound Call and Holiday Booking
+![Activity Diagram1](/Diagrams/Activity_Diagrams.jpg?raw=true)
+
+### Handling Outbound Call
+![Activity Diagram2](/Diagrams/Outbound_Call.jpg?raw=true)
+
 ## Class Diagram 
 ![Class Diagram](/Diagrams/Class%20diagram.jpg?raw=true)
-
-## Activity Diagram 
-![Activity Diagram](/Diagrams/Activity_Diagrams.jpg?raw=true)
 
 ## Collaborative Diagram
 ![Collavorative Diagram](/Diagrams/Collaboration_Diagram.jpg?raw=true)
