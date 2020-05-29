@@ -116,8 +116,12 @@ Customers | As a customer I need comprehensive call instructions and quick routi
 * Make several day-to-day responsibilities automated through the information system. This would improve the company’s efficiency, so the RMs can have a greater focus on the customer
 
 ## Prototype 
+
 User Interface Design (Staff/RM Perspective)
 ![Prototype ISDM](Diagrams/Prototype%20ISDM.jpg?raw=true)
+
+
+
 
 ## Test
 Here we rigorously tested the software, evaluating both the staff and customers perspectives and experiences. Additionally, we ran our own diagnostics, evaluating whether the prototype met our technological standards.  Please see the table below:
