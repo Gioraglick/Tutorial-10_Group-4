@@ -205,7 +205,7 @@ _______________________________
 ![Use Case Diagram](Diagrams/Usecase%20diagram.jpg?raw=true)
 
 ## Activity Diagrams
-### Handling Inbound Call and Package Booking
+### Handling Inbound Call and Holiday Booking
 ![Activity Diagram1](/Diagrams/Activity_Diagrams.jpg?raw=true)
 
 ### Handling Outbound Call
