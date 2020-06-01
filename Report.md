@@ -237,6 +237,9 @@ However, if the information system fails, it can lead to potentially adverse eff
 * Not adhering to the primary set of the business requirements
 * Unwanted exposure to news and online platforms for system failure
 _______________________________
+# YouTube Video Link
+* https://youtu.be/Th-MVYrZ73w
+_______________________________
 # References
 * Chandran, D. 2020, ‘Lecture 6: Design Thinking’, UTS Online Subject 31257, PowerPoint Presentation, UTS, Sydney, viewed 22 May 2020.
 _______________________________
